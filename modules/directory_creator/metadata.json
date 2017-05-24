@@ -1,0 +1,12 @@
+{
+  "name": "devskiller-directory_creator",
+  "version": "0.1.0",
+  "author": "Devskiller",
+  "summary": "Puppet sample module",
+  "license": "Apache-2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [],
+  "data_provider": null
+}
