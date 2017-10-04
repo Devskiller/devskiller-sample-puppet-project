@@ -12,15 +12,13 @@ project with our browser-based code editor and can build the project inside
 the browser at any time. Candidate can also download the project code and edit
 it locally with the favorite IDE.
 
-Check out how the test looks from candidate's perspective: [Candidate campaign
-preview](https://www.youtube.com/watch?v=rB4fViXPh5E).
-
+Check out how the test looks from [candidate's perspective](https://help.devskiller.com/candidate-documentation/how-the-devskiller-test-looks-like-from-the-candidate-perspective).
 
 This repo contains an example project for Puppet, below you can find a
 detailed guide for creating your own programming project.
 
 **Please make sure to read our [Getting started with programming
-projects](https://docs.Devskiller.com/programming_tasks/index.html) guides
+projects](https://docs.devskiller.com/programming_tasks/index.html) guides
 first**
 
 ## Technical details for Puppet project

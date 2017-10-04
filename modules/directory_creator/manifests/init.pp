@@ -9,9 +9,6 @@ class directory_creator (
 
   validate_absolute_path("${directory}")
 
-  file { $directory:
-    ensure => 'directory',
-    owner  => $owner,
-    group  => $group,
-  }
+  # add solution here
+
 }
