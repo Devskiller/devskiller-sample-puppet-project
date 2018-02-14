@@ -2,7 +2,7 @@
 
 ## Introduction
 
-With [devskiller.com](https://devskiller.com) you can assess candidates'
+With [Devskiller.com](https://devskiller.com) you can assess candidates'
 programming skills during your recruitment process. Programming tasks are the
 best way to test candidates programming skills. The candidate is asked to
 modify source code of an existing project.
